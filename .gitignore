@@ -1,0 +1,10 @@
+# Ignore node_modules and .env files
+node_modules/
+.env
+Backend/node_modules/
+frontend/node_modules/
+frontend/.env
+Backend/.env
+dist/
+.vscode/
+.DS_Store
